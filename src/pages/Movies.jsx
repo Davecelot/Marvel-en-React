@@ -3,7 +3,7 @@ import React from 'react'
 function Movies() {
   return (
     <>
-    
+      Muestra de películas
     </>
   )
 }
